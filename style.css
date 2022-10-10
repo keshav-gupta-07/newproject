@@ -39,14 +39,13 @@ nav ul li:hover{
 
        transform: translateY(6px);
         cursor: pointer;
-        color: rgb(245, 48, 48);
+        color: red;
         
 }
 nav ul li a:hover{
 
         
-         color: rgb(235, 37, 37);
-         
+         color: red
  }
 
 nav img{
@@ -75,7 +74,7 @@ nav img{
 
 }
 .btn:hover{
-        background-color: rgb(236, 99, 99);
+        background-color: red;
         cursor: pointer;
 }
 
